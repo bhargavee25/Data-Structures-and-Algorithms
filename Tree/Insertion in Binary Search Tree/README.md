@@ -3,21 +3,21 @@ You are given the root node of a binary search tree (BST) and a value to insert 
 ## Problem Link: 
 https://leetcode.com/problems/insert-into-a-binary-search-tree/ 
 ## Approach: 
-Initilize the current node with root node.
+1. Initilize the current node with root node.
 
-Compare the key with the current node.
-
-
-Move left if the key is less than or equal to the current node value.
+2. Compare the key with the current node.
 
 
-Move right if the key is greater than current node value.
+3. Move left if the key is less than or equal to the current node value.
 
 
-Repeat steps 2 and 3 until you reach a leaf node.
+4. Move right if the key is greater than current node value.
 
 
-Attach the new key as a left or right child based on the comparison with the leaf node's value. 
+5. Repeat steps 2 and 3 until you reach a leaf node.
+
+
+6. Attach the new key as a left or right child based on the comparison with the leaf node's value. 
 ## Time Complexity: 
 O(h) 
 ## Space Complexity: 
