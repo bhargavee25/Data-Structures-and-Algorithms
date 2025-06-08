@@ -1,0 +1,27 @@
+class Solution {
+public:
+    string removeDuplicates(string s) {
+        stack<char>st;
+        int i=0;
+        while (i < s.length()){
+            if (st.empty() || s[i] != st.top()){
+                st.push(s[i]);
+                i++;
+            }else{
+                st.pop();
+                i++;
+            }
+        }
+        if (st.empty()){
+            return "";
+        }
+        else{
+            string string1 ="";
+            while(!st.empty()){
+                string1=st.top()+string1;
+                st.pop();
+            }
+            return (string1);
+        }
+    }
+};
