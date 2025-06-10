@@ -4,6 +4,8 @@ https://leetcode.com/problems/reverse-linked-list/
 Given the head of a singly linked list, reverse the list, and return the reversed list. 
 ## Approach: 
 The idea is to reverse the links of all nodes using three pointers: 
+
+
 1.prev: pointer to keep track of the previous node
 
 
