@@ -13,6 +13,8 @@ The idea is to reverse the links of all nodes using three pointers:
 
 
 3.next: pointer to keep track of the next node
+
+
 Starting from the first node, initialize curr with the head of linked list and next with the next node of curr. Update the next pointer of curr with prev. Move the three pointer by updating prev with curr and curr with next.
 ## Time Complexity: 
 O(n) 
