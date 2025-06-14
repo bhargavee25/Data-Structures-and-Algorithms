@@ -11,8 +11,8 @@ Recursively calculate the height of the left subtree then height of the right su
 Set the current diameter as the sum of left subtree, right subtree + 1 for the current level.
 Update the diameter with the maximum of the current diameter and the global diameter.
 
-Time Complexity:
+## Time Complexity:
 O(N)
 
-Space Complexity:
+## Space Complexity:
 O(1)
