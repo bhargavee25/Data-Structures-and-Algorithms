@@ -16,3 +16,7 @@ This repository contains
 
    
 for various LeetCode problems.
+
+
+The topics include Array, String, Linked List, Tree and Graphs. The 
+repository contains easy, medium and hard level problems from LeetCode.
