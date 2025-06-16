@@ -1,5 +1,5 @@
 ## Problem Link:
-https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
+https://leetcode.com/problems/move-zeroes/description/
 ## Problem Statement:
 Given an array of integers arr[], the task is to move all the zeros to the end of the array while maintaining the relative order of all non-zero elements.
 ## Approach:
