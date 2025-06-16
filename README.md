@@ -1,6 +1,5 @@
-# Data-Structures-and-Algorithms
-This repository contains the following    
-for various LeetCode problems: 
+## Data-Structures-and-Algorithms
+This repository contains the following for various LeetCode problems: 
 1. Problem Link
 
 
