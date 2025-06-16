@@ -1,5 +1,6 @@
 # Data-Structures-and-Algorithms
-This repository contains
+This repository contains the following    
+for various LeetCode problems: 
 1. Problem Link
 
 
@@ -14,8 +15,6 @@ This repository contains
 
 5. Space Complexity:
 
-   
-for various LeetCode problems.
 
 
 The topics include Array, String, Linked List, Tree and Graphs. The 
