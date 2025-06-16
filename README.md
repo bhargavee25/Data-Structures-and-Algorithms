@@ -3,16 +3,16 @@ This repository contains the following for various LeetCode problems:
 1. Problem Link
 
 
-2. Problem Statement:
+2. Problem Statement
 
 
-3. Approach.
+3. Approach
 
 
-4. Time Complexity:
+4. Time Complexity
 
 
-5. Space Complexity:
+5. Space Complexity
 
 
 
