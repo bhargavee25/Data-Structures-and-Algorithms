@@ -1,4 +1,4 @@
-## Problem Link:
+## Problem Link: 
 https://www.geeksforgeeks.org/problems/repeated-sum-of-digits3955/1
 ## Problem Statement: 
 Given an integer n, we need to repeatedly find the sum of its digits until the result becomes a single-digit number.
