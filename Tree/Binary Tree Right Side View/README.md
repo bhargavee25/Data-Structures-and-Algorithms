@@ -1,5 +1,4 @@
 ## Problem Statement:
-**
 Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.
 
 ## Problem Link:
@@ -21,5 +20,5 @@ The recursion continues until it reaches the base case. Return the result vector
 ## Time Complexity:
 O(log 2N)
 
-Space Complexity:
+## Space Complexity:
 O(log 2N)
