@@ -13,8 +13,8 @@ Recursively check the symmetry of these subtrees. We check if the left subtree o
 Similarly, also check the symmetry of the right subtree of the left node with the left subtree of the right node.
 Hence, we compare the node values and recursively explore the left and right subtrees in a mirrored fashion.
 
-Time Complexity:
+## Time Complexity:
 O(N)
 
-Space Complexity:
+## Space Complexity:
 O(1)
