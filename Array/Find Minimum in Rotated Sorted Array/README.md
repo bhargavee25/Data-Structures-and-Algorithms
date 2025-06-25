@@ -10,8 +10,8 @@ We can optimize the minimum element searching by using Binary Search where we fi
 If arr[mid] > arr[high], it means arr[low ... mid] is sorted and we need to search in the right half. So we change low = mid + 1.
 If arr[mid] <= arr[high], it means arr[mid ... high] is sorted and we need to search in the left half. So we change high = mid. (Note: Current mid might be the minimum element).
 
-Time Complexity:
+## Time Complexity:
 O(log n)
 
-Space Complexity:
+## Space Complexity:
 O(1)
